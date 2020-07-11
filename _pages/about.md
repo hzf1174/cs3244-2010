@@ -107,6 +107,14 @@ Linear algebra, calculus, probability and statistics and introductory computer p
 
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
+<div class="tutor__profile">
+  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  <img src="images/Zhenfeng.jpg"/><BR/>
+  <strong>HE Zhenfeng</strong>
+  <BR/>
+  <A HREF="mailto:he.zhenfeng@u.nus.edu">he.zhenfeng@u.nus.edu</A><BR/>
+</div>
+
 <div class="tutor__profile"> 
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
   <img src="images/Shreyas.jpg"/><BR/> 
@@ -193,14 +201,6 @@ Linear algebra, calculus, probability and statistics and introductory computer p
   <strong>ZHU Tongyao</strong>
   <BR/>
   <A HREF="mailto:tongyao.zhu@u.nus.edu">tongyao.zhu@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Zhenfeng.jpg"/><BR/>
-  <strong>He Zhenfeng</strong>
-  <BR/>
-  <A HREF="mailto:he.zhenfeng@u.nus.edu">he.zhenfeng@u.nus.edu</A><BR/>
 </div>
 
 </div>
